@@ -30,6 +30,11 @@
  
  */
 // Answer question 4 below
+var totalMoneyIHaveEarned = 0.0
+totalMoneyIHaveEarned += 0.10
+totalMoneyIHaveEarned += 6.75
+totalMoneyIHaveEarned /= 2
+totalMoneyIHaveEarned *= 3
 
 /*:
  ## Now share your understanding
