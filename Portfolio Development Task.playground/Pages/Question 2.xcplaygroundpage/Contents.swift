@@ -21,6 +21,10 @@
  
  */
 // Answer question 2 below
+let dateOfMeasurement = ("December 18th 2017")
+var timeOfMeasurement = ("3:25pm")
+var totalYearSnowfallSoFar = ("2000m of snow")
+print("I used a constant for dateOfMeasurement because the date does not need to change throughout the code. I choose a variable for timeOfMeasurement because the value will change everytime there is a new measurement. I chose a variable for totalYearSnowfallSoFar because it could change when a new meausrement comes in")
 
 /*:
  ## Now share your understanding
