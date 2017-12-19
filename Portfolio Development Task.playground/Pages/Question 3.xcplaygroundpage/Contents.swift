@@ -21,6 +21,13 @@
  
  */
 // Answer question 3 below
+let hairDonationAmmount = 55.75
+let runTrainingDonationAmmount = 15.35
+var headShavedCount = 12.0
+var runTrainingCount = 73.0
+var totalDonationCount = (hairDonationAmmount * headShavedCount) + (runTrainingDonationAmmount + runTrainingCount)
+
+print("As you can see, I decided to use Double values for all my var and let statements. I did this because firstly any value with decimals must become a double, so 55.75 and 15.35 would have already been declared as a double by xcodes friendly user-interface. Seondly, I changed headShavedCount and runTrainingCount to a double in order to make the calculations for totalDonationCount much simpler because it doesn't require me to change data types in the expression")
 
 /*:
  ## Now share your understanding
